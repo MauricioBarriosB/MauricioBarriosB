@@ -11,8 +11,8 @@
 ###
 
 <p align="left">
-  ✨ Creador de soluciones web a medida en base a tecnologías modernas como React JS, Next JS y Tailwind CSS<br>
-  📚 I'm currently learning ...<br>
+  ✨ Creador de soluciones web a medida en base a tecnologías modernas como React JS, Next JS y Tailwind CSS.<br>
+  📚 Desarrollador Frontend con más de 10 años de experiencia en la creación de interfaces de usuario dinámicas, escalables y accesibles. Especializado en JavaScript (ES6+), React.js y frameworks modernos como Next.js, con sólidos conocimientos en arquitectura de aplicaciones web (SPA, PWA).<br>
   🎯 Goals: ...<br>
   🎲 Fun fact: ...
 </p>
