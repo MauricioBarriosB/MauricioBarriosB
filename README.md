@@ -1,6 +1,4 @@
-<h1 align="center">Mauricio Barrios</h1>
-
-<h2 align="center">Desarrollador Web Frontend</h2>
+<h1 align="center">Mauricio Barrios | Desarrollador Frontend</h1>
 
 ###
 
