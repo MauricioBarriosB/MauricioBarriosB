@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+  ✨ Creador de soluciones web a medida en base a tecnologías modernas como React JS, Next JS y Tailwind CSS<br>
+  📚 I'm currently learning ...<br>
+  🎯 Goals: ...<br>
+  🎲 Fun fact: ...
+</p>
 
 ###
 
