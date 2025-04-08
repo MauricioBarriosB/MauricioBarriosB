@@ -2,10 +2,11 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">Sobre Mí</h2>
 
 ###
-
 
 <p align="left">
   📚 Desarrollador Frontend con más de 10 años de experiencia en la creación de interfaces de usuario dinámicas, escalables y accesibles. Especializado en JavaScript (ES6+), React.js y frameworks modernos como Next.js, con sólidos conocimientos en arquitectura de aplicaciones web (SPA, PWA).
@@ -19,10 +20,9 @@
   🎯 Actualmente brindo soluciones de transformación digital a distintas empresas y PYMES relacionadas con el área del E-Learning y Retail, algunas de ellas: Crea Capacitación, Instituto Santo Tomas, Tiendas Audiomúsica, entre otras.
 </p>
   
-
-
-
 ###
+
+<br clear="both">
 
 <h2 align="left">Habilidades</h2>
 
