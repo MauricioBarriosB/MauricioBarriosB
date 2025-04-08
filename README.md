@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Desarrollador Web Frontend</p>
+<h2 align="center">Desarrollador Web Frontend</h2>
 
 ###
 
