@@ -11,11 +11,17 @@
 ###
 
 <p align="left">
-  ✨ Creador de soluciones web a medida en base a tecnologías modernas como React JS, Next JS y Tailwind CSS.<br>
-  📚 Desarrollador Frontend con más de 10 años de experiencia en la creación de interfaces de usuario dinámicas, escalables y accesibles. Especializado en JavaScript (ES6+), React.js y frameworks modernos como Next.js, con sólidos conocimientos en arquitectura de aplicaciones web (SPA, PWA).<br>
-  🎯 Goals: ...<br>
-  🎲 Fun fact: ...
+  ✨ Creador de soluciones web a medida en base a tecnologías modernas como React JS, Next JS y Tailwind CSS.
 </p>
+<p align="left">
+  📚 Desarrollador Frontend con más de 10 años de experiencia en la creación de interfaces de usuario dinámicas, escalables y accesibles. Especializado en JavaScript (ES6+), React.js y frameworks modernos como Next.js, con sólidos conocimientos en arquitectura de aplicaciones web (SPA, PWA).
+</p>
+<p align="left">
+  🎯 Actualmente brindo soluciones de transformación digital a distintas empresas y PYMES relacionadas con el área del E-Learning y Retail, algunas de ellas: Crea Capacitación, Instituto Santo Tomas, Tiendas Audiomúsica, entre otras.
+</p>
+  
+
+
 
 ###
 
