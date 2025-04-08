@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  🎯 Actualmente brindo soluciones de transformación digital a distintas empresas y PYMES relacionadas con el área del E-Learning y Retail, algunas de ellas: Crea Capacitación, Instituto Santo Tomas, Tiendas Audiomúsica, entre otras.
+  🎯 Actualmente brindo soluciones de transformación digital a distintas empresas y PYMES relacionadas con el área del E-Learning y Retail, algunas de ellas: Crea Capacitación, Instituto Santo Tomás, Tiendas Audiomúsica, entre otras.
 </p>
   
 ###
