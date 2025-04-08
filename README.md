@@ -90,7 +90,7 @@
 
 ###
 
-<h2 align="left">Estadísticas</h2>
+<h2 align="left">Estadísticas de GitHub</h2>
 
 ###
 
