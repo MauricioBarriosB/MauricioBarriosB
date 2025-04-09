@@ -102,9 +102,11 @@
   <a href="https://cl.linkedin.com/in/mauriciobarriosbernales" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
   </a>
-
-    <a href="https://cl.linkedin.com/in/mauriciobarriosbernales" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="50" height="30" alt="linkedin logo"  />
+  <a href="https://wa.me/5693374219" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="30" alt="whatsapp logo"  />
+  </a>
+  <a href="https://portafolio.capacitaenlinea.cl" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="50" height="30" alt="telegram logo"  />
   </a>
 </div>
 
