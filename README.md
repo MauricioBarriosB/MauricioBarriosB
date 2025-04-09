@@ -73,9 +73,13 @@
 <div align="left">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
   <img width="20" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="prisma logo"  />
+  <img width="20" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="30" alt="codeigniter logo"  />
   <img width="20" />
