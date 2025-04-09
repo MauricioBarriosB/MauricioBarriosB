@@ -94,7 +94,7 @@
 
 <br clear="both">
 
-<h2 align="left">Redes</h2>
+<h2 align="left">Redes y Contacto</h2>
 
 ###
 
