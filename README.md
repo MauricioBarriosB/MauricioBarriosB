@@ -37,6 +37,8 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="20" />
+  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="20" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
@@ -99,6 +101,10 @@
 <div align="left">
   <a href="https://cl.linkedin.com/in/mauriciobarriosbernales" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
+  </a>
+
+    <a href="https://cl.linkedin.com/in/mauriciobarriosbernales" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="50" height="30" alt="linkedin logo"  />
   </a>
 </div>
 
