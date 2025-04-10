@@ -104,4 +104,4 @@
 
 ###
 
-<div align="center"><img height="100" src="https://portafolio.capacitaenlinea.cl/images/cenlinea.png" /></div>
+<div align="center"><img height="90" src="https://portafolio.capacitaenlinea.cl/images/cenlinea.png" /></div>
