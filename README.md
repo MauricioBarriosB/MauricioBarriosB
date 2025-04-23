@@ -62,8 +62,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="nextjs logo"/>
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=jest" height="30" alt="jest logo"/>
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"/>
 </div>
 
 ###
