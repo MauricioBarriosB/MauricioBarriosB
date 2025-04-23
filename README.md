@@ -9,7 +9,7 @@
 ###
 
 <p align="left">
-  📚 Desarrollador Frontend con más de 10 años de experiencia en la creación de interfaces de usuario dinámicas, escalables y accesibles. Especializado en JavaScript (ES6+), React.js y frameworks modernos como Next.js, con sólidos conocimientos en arquitectura de aplicaciones web (SPA, PWA).
+  📚 Desarrollador Frontend con más de 10 años de experiencia en la creación de interfaces de usuario dinámicas, escalables y accesibles. Especializado en JavaScript (ES6+), React.js y Angular, con sólidos conocimientos en arquitectura de aplicaciones web (SPA, PWA).
 </p>
 
 <p align="left">
@@ -59,7 +59,7 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"/>
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="nextjs logo"/>
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=jest" height="30" alt="jest logo"/>
   <img width="20" />
