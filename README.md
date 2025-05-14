@@ -81,8 +81,6 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"/>
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/codeigniter/EF4223" height="30" alt="codeigniter logo"/>
-  <img width="20" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"/>
   <img width="20" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"/>
